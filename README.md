@@ -1,2 +1,2 @@
-# OOP-Project
-OOP GUI Project
+# PharmacyManagementSystemJavaFX
+ Pharmacy Management System using JavaFX
